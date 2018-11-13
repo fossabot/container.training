@@ -1,4 +1,6 @@
 # Container Training
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjzuniga184%2Fcontainer.training.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjzuniga184%2Fcontainer.training?ref=badge_shield)
+
 
 This repository (formerly known as `orchestration-workshop`)
 contains materials (slides, scripts, demo app, and other
@@ -320,3 +322,7 @@ feel free to submit a PR to add your name to that list!)
 
 **Thank you!**
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjzuniga184%2Fcontainer.training.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjzuniga184%2Fcontainer.training?ref=badge_large)
